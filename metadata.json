@@ -1,0 +1,8 @@
+{
+  "name": "College Inventory System - نظام إدارة الكلية",
+  "description": "نظام إدارة مخزون الكلية الرقمي المتطور - مبني باستخدام Tauri و React و Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
