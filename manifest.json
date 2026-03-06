@@ -1,0 +1,25 @@
+{
+  "id": "stock-fac-droit-pwa",
+  "name": "law.Gh. Stock - مخزن الحقوق الرقمي",
+  "short_name": "law.Gh. Stock",
+  "description": "نظام إدارة المخزون الرقمي لكلية الحقوق",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/warehouse.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/warehouse.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
